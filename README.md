@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ionic App Base
 # LifestyleBanking
 for IBM BlueMix challenge!
@@ -27,3 +28,7 @@ Issues have been disabled on this repo, if you do find an issue or have a questi
 
 
 
+=======
+# Elizabeth
+Random
+>>>>>>> 02df5ceead947b7f4f74d7fc88ea3bb88fdb8532
